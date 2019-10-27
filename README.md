@@ -12,7 +12,7 @@ only-happy-photos is an Android application that waits for everyone in a photo f
 
 ### A flow chart
 
-[An image] (media/flow.png)
+[An image](media/flow.PNG)
 
 ##
 ##### Made by Richard L. at CalHacks 6.0
