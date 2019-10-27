@@ -12,14 +12,7 @@ only-happy-photos is an Android application that waits for everyone in a photo f
 
 ### A flow chart
 
-```mermaid
-graph LR
-A[Open App] --> B(Take photo)
-B --> C[Process image through Vision API]
-C --> D(Is everyone is happy?)
-D -- No --> B
-D -- Yes --> E[Save photo]
-```
+[An image] (media/flow.png)
 
 ##
 ##### Made by Richard L. at CalHacks 6.0
