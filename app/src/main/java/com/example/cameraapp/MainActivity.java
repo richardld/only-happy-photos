@@ -341,7 +341,7 @@ public class MainActivity extends AppCompatActivity {
                             null);
 
                     visionBuilder.setVisionRequestInitializer(
-                            new VisionRequestInitializer("AIzaSyBRA4ru-UjeMMSHV7TW2yV8OPe-FcwZ1_s"));
+                            new VisionRequestInitializer("INSERT_KEY_HERE"));
 
                     Vision vision = visionBuilder.build();
 
